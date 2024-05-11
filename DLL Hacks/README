@@ -1,1 +1,3 @@
-
+These projects implement different DLL injection hacks for CS:GO.
+The TriggerBot+Health file contains a hack which helps the player identify its teammates and enemies. When an enemy is in its crosshair, it will glow red and will automatically shoot them. You can also restore your health back to 100.
+The Coordinate+Spin file contains a hack which enables you to move or jump much quicker than normal. You can aslo spin on the spot.
